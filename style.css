@@ -124,3 +124,16 @@ header{
 .get-started-btn{
     margin-top: 20px;
 }
+.companies-header{
+    text-align: center;
+    font-weight: 500;
+    color: var(--primary--text--color);
+    margin-block: 30px;
+}
+.logo{
+    height: 46px;
+}
+.logos{
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
