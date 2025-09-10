@@ -164,3 +164,19 @@ header{
     gap: 40px;
     margin-top: 20px;
 }
+.big-feature-section{
+    padding: 30px var(--padding-inline-section) 0;
+}
+.big-feature-container{
+    gap: 30px;
+}
+.feature-img img{
+    width: 100%;
+}
+.feature-desc{
+    flex-direction: column;
+    align-items: flex-start;
+}
+.feature-desc h3,h4{
+    font-weight: 600;
+}
