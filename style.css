@@ -247,3 +247,14 @@ footer{
     padding-block: 80px;
     background-color: #ebf2fa;
 }
+.subfooter{
+    background-color: #b9cde4;
+    padding: var(--padding-inline-section);
+}
+.sub-footer-container {
+    justify-content: center;
+    gap: 30px;
+}
+.features-card img{
+    width: 60px;
+}
